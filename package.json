@@ -17,6 +17,11 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "install": "^0.12.2",
+    "moment": "^2.24.0",
+    "npm": "^6.7.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
     "socket.io": "^2.2.0"
   }
 }
